@@ -1,4 +1,4 @@
-#import "RCTBridgeModule.h"
+#import <React/RCTBridgeModule.h>
 #import "EventSource.h"
 
 @interface RNEventSource : NSObject <RCTBridgeModule> {
